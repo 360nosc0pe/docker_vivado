@@ -1,0 +1,2 @@
+#These bigger files are expected to be downloaded using http from the files directory
+files/Xilinx_Vivado_SDK_*.tar.gz
